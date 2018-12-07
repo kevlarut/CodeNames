@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\SignalRChat\\SignalRChat.csproj",
+      "projectUniqueName": "C:\\Dev\\codenames\\SignalRChat.csproj",
       "projectName": "SignalRChat",
-      "projectPath": "C:\\Dev\\SignalRChat\\SignalRChat.csproj",
+      "projectPath": "C:\\Dev\\codenames\\SignalRChat.csproj",
       "packagesPath": "C:\\Users\\kowens\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\SignalRChat\\obj\\",
+      "outputPath": "C:\\Dev\\codenames\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
