@@ -7415,7 +7415,7 @@
       ]
     },
     "System.Collections.Immutable/1.5.0": {
-      "sha512": "erLSnZLBCA8EKIE2bKtXynjWBWSoMlmCFrOOYN+sPKCeYd3oGj9h8hqRPODtsRlPANkOW7L8tEQlEadHbUXC6A==",
+      "sha512": "RGxi2aQoXgZ5ge0zxrKqI4PU9LrYYoLC+cnEnWXKsSduCOUhE1GEAAoTexUVT8RZOILQyy1B27HC8Xw/XLGzdQ==",
       "type": "package",
       "path": "system.collections.immutable/1.5.0",
       "files": [
@@ -9252,10 +9252,11 @@
       ]
     },
     "System.Reflection.Emit.Lightweight/4.3.0": {
-      "sha512": "oadVHGSMsTmZsAF864QYN1t1QzZjIcuKU3l2S9cZOwDdDueNTrqq1yRj7koFfIGEnKpt6NjpL3rOzRhs4ryOgA==",
+      "sha512": "TCmTVOvOkWf7QNHMuzbfSD1y7hO0PNhFfTGLzKAJYkh7Ta+lUX2pb+Rrnx/i3Ism6H2qCDzagRbnsluJQ1U0Kw==",
       "type": "package",
       "path": "system.reflection.emit.lightweight/4.3.0",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -11500,23 +11501,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kowens\\.nuget\\packages\\": {},
+    "C:\\Users\\JNeilso1\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\codenames\\SignalRChat.csproj",
+      "projectUniqueName": "C:\\Users\\JNeilso1\\devPersonal\\CodeNames\\SignalRChat.csproj",
       "projectName": "SignalRChat",
-      "projectPath": "C:\\Dev\\codenames\\SignalRChat.csproj",
-      "packagesPath": "C:\\Users\\kowens\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\codenames\\obj\\",
+      "projectPath": "C:\\Users\\JNeilso1\\devPersonal\\CodeNames\\SignalRChat.csproj",
+      "packagesPath": "C:\\Users\\JNeilso1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JNeilso1\\devPersonal\\CodeNames\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\kowens\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\JNeilso1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11524,7 +11525,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "\\\\ctac\\department\\IT\\Private\\Programming\\Nuget Packages\\Shared": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
