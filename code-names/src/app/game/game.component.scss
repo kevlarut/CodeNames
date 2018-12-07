@@ -1,0 +1,16 @@
+app-game {    
+    .card {
+        background: #ffffee;
+        cursor: pointer;
+        font-weight: bold;
+        margin: 8px;
+        padding: 12px;
+        text-transform: uppercase;
+
+        &:hover {
+            background: #3e3e3e;
+            color: white;
+        }
+    }
+
+}
