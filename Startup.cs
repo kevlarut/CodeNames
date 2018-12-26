@@ -32,7 +32,6 @@ namespace SignalRChat
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             services.AddCors(o => o.AddPolicy("CorsPolicy", builder =>
@@ -69,6 +68,7 @@ namespace SignalRChat
             app.UseSignalR(routes =>
             {
                 routes.MapHub<ChatHub>("/chatHub");
+                routes.MapHub<GameHub>("/gameHub");
             });
             app.UseMvc();
         }
